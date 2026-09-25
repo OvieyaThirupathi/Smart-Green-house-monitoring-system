@@ -133,6 +133,8 @@ Soil becomes dry → Water Pump ON
 Excessive rain detected → Roof CLOSES
 
 **12\. Block Diagram**
+![image alt]()
 
 **13\. Project Images**
+![image alt]()
 
