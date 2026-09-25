@@ -133,7 +133,7 @@ Soil becomes dry → Water Pump ON
 Excessive rain detected → Roof CLOSES
 
 **12\. Block Diagram**
-![image alt]()
+![image alt](https://github.com/OvieyaThirupathi/Smart-Green-house-monitoring-system/blob/020c698a010e52a9f4e8d72a29f6f10f126ac684/green%201.jpeg)
 
 **13\. Project Images**
 ![image alt]()
