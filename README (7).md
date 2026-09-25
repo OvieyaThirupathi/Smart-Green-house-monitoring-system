@@ -136,5 +136,5 @@ Excessive rain detected → Roof CLOSES
 ![image alt](https://github.com/OvieyaThirupathi/Smart-Green-house-monitoring-system/blob/020c698a010e52a9f4e8d72a29f6f10f126ac684/green%201.jpeg)
 
 **13\. Project Images**
-![image alt]()
+![image alt](https://github.com/OvieyaThirupathi/Smart-Green-house-monitoring-system/blob/a395267545953f2d4f368971a2dcd6f203eb8c4a/green2.jpeg)
 
